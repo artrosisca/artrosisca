@@ -1,10 +1,10 @@
 <h1 align="center">Hello I'm Arthur Rosisca</h1>
 <h4 align="center">A Computer Science student at UTFPR-PG with a passion for Data Science.</h3>
 
-<p align="left">
+<p align="center">
 &nbsp;
-Currently exploring the fields of **Data Analysis** and **Process Mining**. 
-With a background in **Front-End Development** and **DevOps** tools.
+Currently exploring the fields of <b>Data Analysis</b> and <b>Process Mining</b>. 
+With a background in <b>Front-End Development</b>.
 </p>
 
 <h4>Languages and Tools:</h4>
