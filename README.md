@@ -1,5 +1,5 @@
 <h1 align="center">Hello I'm Arthur Rosisca</h1>
-<h4 align="center">A Computer Science student at UTFPR-PG with a passion for Data Science.</h3>
+<h4 align="center">A Computer Science student at UTFPR-PG.</h3>
 
 <p align="center">
 &nbsp;
