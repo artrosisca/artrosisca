@@ -4,7 +4,7 @@
 <p align="center">
 &nbsp;
 Currently exploring the fields of <b>Data Engineer</b> and <b>Process Mining</b>.
-With a background in Front-End Development
+<br>With a background in Front-End Development
 </p>
 
 <h4>Languages and Tools:</h4>
