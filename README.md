@@ -3,7 +3,7 @@
 
 <p align="center">
 &nbsp;
-Currently exploring the fields of <b>Data Analysis</b> and <b>Process Mining</b>. 
+Currently exploring the fields of <b>Data Engineer</b> and <b>Process Mining</b>. 
 With a background in <b>Front-End Development</b>.
 </p>
 
