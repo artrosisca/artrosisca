@@ -10,19 +10,24 @@ Currently focused on <b>Data Engineering</b> and <b>Process Mining</b>.
 <h4>Languages and Tools:</h4>
 
 <p align="center">
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" />
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" />
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"/>
-  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="snowflake"/>
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux"/>
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="git"/>
+  <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" />
+  &nbsp;
+  <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" />
+  &nbsp;
+  <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"/>
+  &nbsp;
+  <img height="65" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Snowflake_Inc._logo.svg" alt="snowflake"/>
+  &nbsp;
+  <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux"/>
+  &nbsp;
+  <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="git"/>
 </p>
 
 <h4>Statistics:</h4>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artrosisca&show_icons=true&theme=calm_pink&include_all_commits=true&count_private=true&hide_border=true" alt="Arthur's GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artrosisca&layout=compact&langs_count=8&theme=calm_pink&hide_border=true&exclude_repo=front-end-repo-names" alt="Arthur's Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artrosisca&layout=compact&langs_count=8&theme=calm_pink&hide_border=true" alt="Arthur's Top Languages">
 </p>
 
 <h4 align="left">
