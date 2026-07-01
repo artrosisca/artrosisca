@@ -64,3 +64,7 @@
 <div align="center">
   <img src="./github-metrics.svg" width="95%" alt="Métricas do Arthur" />
 </div>
+
+<div align="center">
+  <img src="github-metrics.svg" alt="Minhas Métricas Avançadas" />
+</div>
