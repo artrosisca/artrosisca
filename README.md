@@ -1,4 +1,4 @@
-y<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&theme=tokyonight" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&theme=tokyonight" width="100%" />
 
 <h2 align="center">Arthur Rosisca</h2>
 <p align="center">Desenvolvedor Full-Stack</p>
@@ -25,7 +25,7 @@ y<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&heig
     </td>
     <!-- Coluna Tecnologias -->
     <td width="34%" valign="top">
-      <h3>ech Stack</h3>
+      <h3>Tech Stack</h3>
       <p>
         <strong>Backend:</strong> Laravel • PHP • Python • FastAPI<br/>
         <strong>Frontend:</strong> Vue 3 • React • Three.js • Zustand<br/>
