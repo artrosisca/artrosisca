@@ -1,70 +1,68 @@
-<div align="center">
-  <h1>Olá, eu sou o Arthur Rosisca! 👋</h1>
-  <p><strong>Desenvolvedor Full-Stack & Engenheiro de Dados</strong></p>
-  
-  <p>
-    <a href="https://linkedin.com/in/artrosisca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://arthur-rosisca.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-    <a href="mailto:arthur.rosisca@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  </p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&theme=tokyonight" width="100%" />
 
----
+<h2 align="center">Arthur Rosisca</h2>
+<p align="center">Desenvolvedor Full-Stack & Engenheiro de Dados</p>
 
-### Sobre Mim
+<p align="center">
+  <a href="https://linkedin.com/in/artrosisca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://arthur-rosisca.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <a href="mailto:arthur.rosisca@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
 
-Sou estudante de Ciência da Computação na **UTFPR** (Universidade Tecnológica Federal do Paraná), atuando na intersecção entre **Desenvolvimento Web Full-Stack**, **Engenharia de Dados** e **Integração de Sistemas**.
+<br/>
 
-- 🔭 Atualmente sou **Desenvolvedor Full-Stack** desenvolvendo aplicações SaaS.
-- ⚙️ Experiência na criação de filas de tarefas assíncronas, modelagem multi-database e integrações de webhooks (Asaas, ZapSign, Jira).
-- 📊 Atuo na criação de pipelines ETL, processamento de dados e aplicação de algoritmos de Process Mining (PM4Py) e Map Matching (HMM).
-- 🎮 Nas horas vagas, exploro **computação gráfica 3D na web** usando React Three Fiber, Three.js e Zustand.
-- 🤖 Proficiente no uso de ferramentas de desenvolvimento acelerado por IA para otimização de fluxos.
-
----
-
-### Tecnologias & Stacks
-
-<table align="center" width="100%">
+<table align="center" width="100%" border="0" cellpadding="8">
   <tr>
-    <td align="center" width="25%"><strong>Backend</strong></td>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Dados & Bancos</strong></td>
-    <td align="center" width="25%"><strong>DevOps & Ferramentas</strong></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <!-- Coluna Sobre Mim -->
+    <td width="38%" valign="top">
+      <h3>💫 Sobre Mim</h3>
+      <p>Estudante de Ciência da Computação na <strong>UTFPR</strong>. Atuo na intersecção entre Desenvolvimento Full-Stack e Engenharia de Dados.</p>
+      <ul>
+        <li>Estagiário Full-Stack na <strong>Soma Tecnologia</strong> (Laravel 12 / Vue 3).</li>
+        <li>Foco em SaaS, webhooks, filas assíncronas e ETL.</li>
+        <li>Pesquisa aplicada em Process Mining e algoritmos espaciais.</li>
+      </ul>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+    <!-- Coluna Tecnologias -->
+    <td width="34%" valign="top">
+      <h3>🛠️ Tech Stack</h3>
+      <p>
+        <strong>Backend:</strong> Laravel • PHP • Python • FastAPI<br/>
+        <strong>Frontend:</strong> Vue 3 • React • Three.js • Zustand<br/>
+        <strong>Bancos & Dados:</strong> PostgreSQL • MySQL • Pandas • SQL<br/>
+        <strong>DevOps:</strong> Docker • Git • Jira • Linux
+      </p>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    <!-- Coluna Streak Stats -->
+    <td width="28%" valign="top">
+      <h3>📊 Contribuições</h3>
+      <img src="https://streak-stats.demolab.com/?user=artrosisca&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats do Arthur" />
     </td>
   </tr>
 </table>
 
----
+<br/>
+<hr />
 
-### 📊 Estatísticas do GitHub
+<table align="center" width="100%" border="0" cellpadding="8">
+  <tr>
+    <!-- Coluna 3D Contrib -->
+    <td width="50%" align="center" valign="top">
+      <h3>🧱 Contribuições em 3D (Estilo Lego)</h3>
+      <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Gráfico 3D" />
+    </td>
+    <!-- Coluna Activity Graph -->
+    <td width="50%" align="center" valign="top">
+      <h3>📈 Gráfico de Atividade</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=artrosisca&bg_color=0d1117&color=7c3aed&line=7c3aed&point=a78bfa&area=true&hide_border=true" width="100%" alt="Gráfico de Atividade" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+<hr />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artrosisca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Arthur" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artrosisca&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens Mais Utilizadas" />
+  <h3>📊 Métricas Detalhadas (GitHub Metrics)</h3>
+  <img src="./github-metrics.svg" width="95%" alt="Métricas do Arthur" />
 </div>
