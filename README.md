@@ -50,18 +50,6 @@ Cientista da Computação graduado pela **UTFPR**, atuando na convergência entr
 
 ---
 
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| 🏛️ [**SQL Data Warehouse**](https://github.com/artrosisca/sql-data-warehouse) | Data Warehouse ponta a ponta estruturado sob a Arquitetura Medalhão (Bronze, Silver e Gold), integrando fontes de CRM/ERP e modelagem dimensional para consumo analítico. | `SQL Server` `ETL` `Data Architecture` |
-| 🏥 [**Predição de Risco de Doenças Crônicas**](https://github.com/artrosisca/Predicao-Dcnt-Unimed) | Projeto desenvolvido em colaboração com a UTFPR e a Unimed, aplicando modelos de Machine Learning supervisionado para estratificação de risco de pacientes a partir de 6 bases clínicas. | `Python` `Scikit-Learn` `ETL` `Pandas` |
-| 🚌 [**Análise de Dados de Transporte (URBS)**](https://github.com/artrosisca/URBS_analysis) | Pipeline de engenharia e análise de dados espaciais e temporais sobre a malha de transporte coletivo de Curitiba, com métricas de circulação e performance de linhas. | `Python` `Geopandas` `Data Analytics` |
-| 🌐 [**Portfólio Interativo & Experiência 3D**](https://github.com/artrosisca/portfolio-site) | Aplicação web moderna com ambiente imersivo em 3D, suporte a internacionalização (PT/EN), emulador de terminal interativo e design responsivo. | `React` `Three.js` `Vite` `TailwindCSS` |
-| 💳 [**Sistema de Controle Financeiro**](https://github.com/artrosisca/Organizando-Pagamentos) | Aplicação full-stack para gestão e fluxo de pagamentos com autenticação, categorização inteligente de despesas e dashboards analíticos de gastos. | `PHP` `Laravel` `PostgreSQL` |
-
----
-
 ### 📊 Sequência de Contribuições & Atividade
 
 <div align="center">
